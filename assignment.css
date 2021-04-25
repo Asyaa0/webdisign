@@ -1,0 +1,222 @@
+.sia{
+    background-color: #EAF6F6;
+    height: 750px;
+    margin: 0px;
+    
+}
+.cloud1{
+    position:absolute;
+    top: 50px ;
+    bottom: 50px;
+    left: 1000px;
+}
+.pro{
+    font-family:'Encode Sans Semi Expanded';
+    color: #66BFBF;
+    text-align: center;
+    font-size: 36px;
+}
+h1{ 
+    font-family:"Sacramento";
+    color: #66BFBF;
+    font-size:75px;
+    text-align: center;
+    
+   
+}
+
+.cloud2{
+    position:absolute;
+    top: 0px;
+    bottom: 50px;
+    right: 1000px;
+}
+.shax{
+    position: absolute;
+    left: 350px;
+    margin-top: 40px;
+    size: 40px;
+}
+.itsme{
+    border-radius:50%;
+    width: 210px;
+    position: absolute;
+    left: 550px;
+    margin-top: 65px;
+}
+.hello{
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin-top: 320px;
+    position: relative;
+    left: 5px;
+}
+
+.heart:before {
+    content: '\2665';
+    color: red;
+  }
+.intro{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font: size 15px;px;
+}
+line {
+    white-space: nowrap;
+    position: relative;
+    overflow: hidden;
+  }
+  .line:after {
+    content: ".....";
+    letter-spacing: 8px;
+    font-size: 55px;
+    color: #EAF6F6;
+    display: inline-block;
+    vertical-align: 3px;
+    padding-left: 700px;
+    padding-top: 30px;
+  } 
+
+.skill{
+    text-align: center;
+    color:#66BFBF ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.codeing{
+    float:left;
+    width: 150px;
+    margin-left: 250px;
+    margin-right: 22px; 
+    margin-bottom: 200px;
+    
+}
+.design{
+    color:#66BFBF ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+p{
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-size: 15px;
+}
+.chilli{
+    float: right;
+    margin-right: 190px;
+    width: 150px;
+    margin-top: 50px; 
+
+    
+}
+.hott{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-top: 110px;
+    margin-right: 30px;
+    
+    
+}
+.mot{
+    
+    padding-right: 40px;
+    font-size: 15px;
+    margin-right: 310px;
+    
+}
+
+dotted-line {
+    white-space: nowrap;
+    position: relative;
+    overflow: hidden;
+  }
+  .dotted-line:after {
+    content: ".....";
+    letter-spacing: 8px;
+    font-size: 55px;
+    color: #EAF6F6;
+    display: inline-block;
+    vertical-align: 3px;
+    padding-left: 700px;
+    padding-top: 30px;
+  } 
+  .git{
+      color: #66BFBF;
+      font-family: 'Montserrat', sans-serif;
+      text-align: center;
+      margin-top: 40px;
+      font-size: 40px;
+  }
+  .if{
+      color: #11999E;
+      text-align: center;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+  }
+  .love{
+      text-align: center;    
+  }
+  .can{
+      text-align: center;
+      margin-bottom: 10px;
+  }
+  .button{
+      background-color:#11999E ;
+      font-family:'Montserrat', sans-serif;
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      text-align: center;
+      padding: 10px 27px;
+      border-radius: 12px;
+      margin-left: 550px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      border-color: white;
+      cursor: pointer;
+      opacity:5;
+  }
+  .button:hover {
+      background-color:rgb(87, 90, 92);
+
+}
+  .button:active {
+     background-color:#11999E ;
+     transform: translateY(4px);
+}
+  .footer{
+      background-color: #66BFBF;
+      height: 150px;
+  }
+  ul {
+    list-style-type: none;
+    margin-left: 440px;
+    padding: 40px 20px;
+  }
+  
+  li {
+    display: inline;
+    padding: 20px 20px;
+    font-family:'Montserrat', sans-serif;
+    font-size: 18px;   
+  }
+  a{
+      color: #11999E;
+      text-decoration: none;    
+  }
+  a:hover{
+      color: whitesmoke;
+  }
+  .end{
+      color: #EAF6F6;
+      text-align: center;
+      font-family:'Montserrat', sans-serif;
+      font-size: 15px;
+      padding-bottom: 30px;
+  }
